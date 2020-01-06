@@ -5,3 +5,4 @@ Es un proyecto de ejemplo para uso de Git
 Lo primero fue configurar los datos del usuario:
   git config --global user.email "fcuevas.devops@gmail.com"
   git config --global user.name "Francisco Cuevas"
+  git config --global user.username "fcuevas-devops"
